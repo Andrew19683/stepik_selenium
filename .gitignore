@@ -218,3 +218,4 @@ __marimo__/
 .streamlit/secrets.toml
 
 selenium_env/
+test_stepik_login.py
